@@ -1,3 +1,8 @@
+# Hello!
+
+Thanks for looking at this. The rest of this README is like all the other CRAs, so I'm putting the one different thing up here. I used Firebase for my database and auth, so I created a config file to store those variables. You'll need to add the Firebase SDK to your app to make your work. [This is what I followed.](https://firebase.google.com/docs/web/setup#access-firebase)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
